@@ -1,0 +1,11 @@
+OAuthConsumer for the iPhone Lineup
+===================================
+
+Ported from the OAuthConsumer library on Google Code.
+
+Available here:
+
+http://code.google.com/p/oauth/
+
+License: Apache License 2.0
+
